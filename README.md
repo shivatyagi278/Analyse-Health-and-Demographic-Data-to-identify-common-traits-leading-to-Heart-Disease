@@ -42,6 +42,6 @@ This project analyzes healthcare and demographic data to identify patterns leadi
 
 ## 📁 Project Structure
 
-main.ipynb
-README.md
-requirements.txt
+- main.ipynb
+- README.md
+- requirements.txt
